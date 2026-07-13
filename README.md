@@ -4,6 +4,15 @@
 
 I'm a software developer focused on building reliable Android applications and backend services.
 
+## 🚀 Featured Project
+
+### 🛡️ SafeNest
+
+A production-ready child safety platform for Android.
+
+🔗 Repository:
+https://github.com/edezperado-art/safenest
+
 ### 🚀 Tech Stack
 
 - Kotlin
