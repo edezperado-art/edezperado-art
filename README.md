@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**edezperado-art/edezperado-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Android & Backend Developer
 
-Here are some ideas to get you started:
+I'm a software developer focused on building reliable Android applications and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Python
+- FastAPI
+- SQLite
+- REST API
+- Git
+- Linux
+- Docker
+
+### 📱 Current Focus
+
+- Android Development
+- Backend Development
+- Production-ready mobile applications
+- API design
+- Software architecture
+
+### 🌍 Open To
+
+- Remote Android Developer positions
+- Remote Backend Developer positions
+- International software engineering teams
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/artem-kasymbekov-47929541a/
